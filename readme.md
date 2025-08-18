@@ -16,7 +16,11 @@
 **Lucía Della Maddalena**  
 
 🔗 [Sitio Web](https://fabsignal.github.io/salud_a_mano/)  
+
 🔗 [GitHub](https://github.com/FabSignal/salud_a_mano)
+
+🔗 [Post LinkedIn](https://www.linkedin.com/posts/arayamariaelisa_form%C3%A1-parte-de-la-red-salud-a-mano-activity-7354249862332264448-AIuZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABCmLzgB8osSC3DDC6PKOHGtdQXyQysNGho)
+
 
 > Un sitio con enfoque en la salud accesible, bien estructurado, con navegación clara y una estética limpia. Se destaca la coherencia entre diseño y propósito social.
 
@@ -30,7 +34,11 @@
 **Jessica Baeza**  
 
 🔗 [Sitio Web](https://karug1999.github.io/Proyecto_Grupo7/)  
+
 🔗 [GitHub](https://github.com/KaruG1999/Proyecto_Grupo7/tree/main)
+
+🔗 [Post LinkedIn](https://www.linkedin.com/posts/arayamariaelisa_todas-las-plantas-que-puedas-imaginar-activity-7357144712572526592-ozP3?utm_source=share&utm_medium=member_desktop&rcm=ACoAABCmLzgB8osSC3DDC6PKOHGtdQXyQysNGho
+)
 
 > Un sitio accesible y bien estructurado para un espacio de plantas con enfoque inclusivo. Se destaca el uso de paletas contrastadas, secciones claras y un excelente trabajo en equipo. La propuesta no solo es visualmente atractiva, sino que también comunica con claridad la misión del proyecto.
 
@@ -43,8 +51,13 @@
 **Zoe Quiroz**  
 **María Eugenia Salcedo**  
 
-🔗 [Sitio Web](https://m-eugenia-salcedo.github.io/Saturno-Cafe/contactos.html)  
+🔗 [Sitio Web](https://m-eugenia-salcedo.github.io/Saturno-Cafe/contactos.html) 
+
 🔗 [GitHub](https://github.com/m-eugenia-salcedo/Saturno-Cafe)
+
+🔗 [Post LinkedIn](https://www.linkedin.com/posts/arayamariaelisa_github-m-eugenia-salcedosaturno-cafe-activity-7359607001422684160-3BUg?utm_source=share&utm_medium=member_desktop&rcm=ACoAABCmLzgB8osSC3DDC6PKOHGtdQXyQysNGho
+)
+
 
 > Sitio encantador y funcional. Presentación limpia y con buen uso de assets visuales para reforzar identidad de marca.
 
@@ -58,7 +71,11 @@
 **Julieta Heit**  
 
 🔗 [Sitio Web](https://github.com/SolGayarin/la-pasteleria-web)  
+
 🔗 [GitHub](https://solgayarin.github.io/la-pasteleria-web/)
+
+⚠️ Es necesario README para compartir en Redes Sociales.
+
 
 > 🎂 Una experiencia dulce y bien construida. Fluida, clara, y con una identidad visual consistente. Muy bien logrado el mobile first.
 
@@ -67,14 +84,17 @@
 ---
 
 
-#### 👥 Grupo 5: **Proyecto - La Pastelería Web**
+#### 👥 Grupo 5: **Proyecto - CatFecito**
 
 **Melanie Ortega**  
 **Rosario Albornoz**  
 **Tiziana Gomez** 
 
-🔗 [Sitio Web](https://github.com/SolGayarin/la-pasteleria-web)  
+⚠️ Es necesario deploy para compartir en Redes Sociales 
+
 🔗 [GitHub](https://github.com/melanie-rocio/Catfecito)
+
+⚠️ Es necesario README para compartir en Redes Sociales.
 
 >  🐱 La fusión perfecta entre ternura, funcionalidad y diseño. Menú dinámico y excelente organización del contenido.
 
@@ -90,22 +110,17 @@
 **Sofía Sanchez Ponce**  
 
 🔗 [Sitio Web](https://emprendo-proyecto-final.vercel.app/)  
+
 🔗 [GitHub](https://github.com/MaVe1000/Emprendo-Proyecto-final)
+
+🔗 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7362998473006243841/)
+
 
 > Aplicación orientada a acompañar espacios de emprendedores. Buena estructura técnica, contenido bien distribuido y diseño profesional.
 
 <img width="1842" height="868" alt="image" src="https://github.com/user-attachments/assets/cfcf1d08-3e5a-4516-bf95-144025655165" />
 
 ---
-
-
-
-
-
-
-
-
-
 
 ¡Bienvenidas! 👋  - Esto era el comienzo - Ahora es el final 😉
 
