@@ -70,9 +70,9 @@
 **Sol Gayarin**  
 **Julieta Heit**  
 
-🔗 [Sitio Web](https://github.com/SolGayarin/la-pasteleria-web)  
+🔗 [Sitio Web](https://solgayarin.github.io/la-pasteleria-web/)  
 
-🔗 [GitHub](https://solgayarin.github.io/la-pasteleria-web/)
+🔗 [GitHub](https://github.com/SolGayarin/la-pasteleria-web)
 
 ⚠️ Es necesario README para compartir en Redes Sociales.
 
