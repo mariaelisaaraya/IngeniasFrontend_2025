@@ -130,7 +130,7 @@
 
 🔗 [GitHub](https://github.com/mmercedes011/zootopia-entregaFinal)
 
-🔗 [Post LinkedIn]()
+🔗 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7369142346522705921/)
 
 
 > Plataforma pensada para facilitar la adopción de perros y gatos, se puede ver un formulario de contacto con envío de mails vía EmailJS, testimonios de adoptantes y una guía paso a paso del proceso de adopción.
@@ -148,7 +148,7 @@
 
 🔗 [GitHub](https://github.com/cintiaalfaro29/pawport_web)
 
-🔗 [Post LinkedIn]()
+🔗 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7369142346522705921/)
 
 
 > Plataforma con diseños claros, detalles visuales encantadores (como la patita con avión ✈️🐾), secciones organizadas, CSS con media queries y validaciones en JS que hacen la experiencia confiable y cercana.
