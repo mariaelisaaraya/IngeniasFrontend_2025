@@ -122,6 +122,43 @@
 
 ---
 
+#### 👥 Grupo 7: **Proyecto Soutopia**  
+
+**Maria Mercedes Niba**   
+
+🔗 [Sitio Web](https://mmercedes011.github.io/zootopia-entregaFinal/)  
+
+🔗 [GitHub](https://github.com/mmercedes011/zootopia-entregaFinal)
+
+🔗 [Post LinkedIn]()
+
+
+> Plataforma pensada para facilitar la adopción de perros y gatos, se puede ver un formulario de contacto con envío de mails vía EmailJS, testimonios de adoptantes y una guía paso a paso del proceso de adopción.
+
+<img width="1070" height="571" alt="Captura desde 2025-09-03 19-23-00" src="https://github.com/user-attachments/assets/f6c35433-22a3-44e1-b795-96a76efcf577" />
+
+
+---
+
+#### 👥 Grupo 8: **Proyecto Pawport**  
+
+**Cintia Alfaro**   
+
+🔗 [Sitio Web](https://cintiaalfaro29.github.io/pawport_web/)  
+
+🔗 [GitHub](https://github.com/cintiaalfaro29/pawport_web)
+
+🔗 [Post LinkedIn]()
+
+
+> Plataforma con diseños claros, detalles visuales encantadores (como la patita con avión ✈️🐾), secciones organizadas, CSS con media queries y validaciones en JS que hacen la experiencia confiable y cercana.
+
+<img width="1070" height="584" alt="image" src="https://github.com/user-attachments/assets/9a7ffdb3-655d-4722-ae2c-520626cad16a" />
+
+
+
+---
+
 ¡Bienvenidas! 👋  - Esto era el comienzo - Ahora es el final 😉
 
 Desde este lado de la pantalla Lisa, ¡Un gusto!,  este repositorio está pensado para acompañarte durante toda la cursada del Curso de Frontend 2025.  
